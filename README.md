@@ -1,4 +1,4 @@
-# __Five small games coded to learn Python better__  
+# __Five small games coded to learn Python__  
 ## Done: __June 2022__  
 Here are the games:  
 1. Guess The Number  
