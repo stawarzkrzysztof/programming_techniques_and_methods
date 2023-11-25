@@ -15,13 +15,6 @@ GREEN = (0, 255, 0)
 RED = (255, 0, 0)
 BLUE = (0, 0, 255)
 
-
-class Cokolwiek():
-    def __init__(self, chuj) -> None:
-        self.chuj = chuj
-        pass
-
-
 board = {}
 
 
